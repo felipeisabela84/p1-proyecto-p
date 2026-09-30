@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Datos pesados 
+data/
+
+# Credenciales de conexión
+.env
+
+# Archivos generados por Python y pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
